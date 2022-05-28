@@ -58,6 +58,6 @@ browser.get(
 ## 고마운 분들
 
 이 프로젝트는 다음 분들의 도움을 받았습니다. 여러분의 도움을 바랍니다.
-* [김대현(@hatemogi)](https://github.com/hatemogi) - 공동 프로젝트
+* [유동혁(@hatemogi)](https://github.com/hatemogi) - 공동 프로젝트
 
 감사합니다.
