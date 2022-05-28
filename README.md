@@ -5,7 +5,7 @@
 위 질문에서 시작한 실험 프로젝트입니다. 실제로 골프장을 검색 및 예약을하고 그 날짜의 골프장 가격과 부킹 앱들에 올라온 가격들을 찾아보고 해결 방안을 찾으려 합니다.
 골퍼가 쉽게 골프장을 예약하는 골프장 부킹 정보를 제공 하는 **골프장 직접 부킹 정보제공 프로그램**을 개발하고 있습니다.
 ## 스크린 샷
-<img src="https://github.com/hatemogi/github-ko-ext/blob/3fbd30d0ad7dd570e1f2476aab2ad9aa3a4d66a4/screenshots/project.png?raw=true">
+<img src="https://github.com/chosunggeun/tast/edit/main/3fbd30d0ad7dd570e1f2476aab2ad9aa3a4d66a4/screenshots/project.png?raw=true">
 GitHub 한글화 크롬 확장 프로그램을 설치한 뒤, 평소 이용하는 GitHub에 방문하시면 한글로 번역되어 표시됩니다.
 ## 합리화
 코로나로 인해 골프하는 골퍼들이 늘어나고 있고, 취미 생활로 시작하는 골퍼들은 골프장 라운딩을 위해 부킹앱과 매니저를 통해 예약하거나 일부의 사람들이 직접 골프장 사이트를 방문하여
