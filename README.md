@@ -26,7 +26,7 @@
 * 1차 목표 - 네이버 사이트에 예약 가능한 골프장 데이터 제공
 
 ## 이용 방법
-여느 확장 프로그램과 같은 방법으로 설치하고 실행 및 사용하시면 됩니다.
+파일을 다운로드 및 설치하고 사용하시면 됩니다.
 ![](screenshots/chrome-webstore.png)
 [크롬 웹 스토어 - GitHub 한글화 설치하러 가기](https://chrome.google.com/webstore/detail/github-%ED%95%9C%EA%B8%80%ED%99%94/phhgannnkapemfnciphmbpenaflbngmm)
 위 확장 프로그램 페이지에서 "Chrome에 추가" 버튼을 누르시면 설치되며, 설치 후 평소처럼 GitHub에 방문하시면 됩니다.
