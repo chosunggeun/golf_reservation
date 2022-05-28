@@ -5,9 +5,7 @@
 위 질문에서 시작한 실험 프로젝트입니다. 실제로 골프장을 검색 및 예약을하고 그 날짜의 골프장 가격과 부킹 앱들에 올라온 가격들을 찾아보고 해결 방안을 찾으려 합니다.
 골퍼가 쉽게 골프장을 예약하는 골프장 부킹 정보를 제공 하는 **골프장 직접 부킹 정보제공 프로그램**을 개발하고 있습니다.
 ## 스크린 샷
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
-
-<img src="https://github.com/chosunggeun/tast/edit/main/3fbd30d0ad7dd570e1f2476aab2ad9aa3a4d66a4/screenshots/project.png?raw=true">
+[[Contribution guidelines for this project](docs/CONTRIBUTING.md)]
 골프장 직접 부킹 프로그램을 설치 한뒤 실행하면 네이버에 예약 가능한 골프장과 골프장 위치를 정보가 표시됩니다.
 
 ## 합리화
