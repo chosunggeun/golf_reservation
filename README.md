@@ -57,6 +57,6 @@ browser.get(
 
 ## 프로젝트 공동개발자
 
-* [유동혁(@hatemogi)](https://github.com/hatemogi) - 공동 프로젝트
+* [유동혁(@hatemogi)](https://github.com/hatemogi) 
 
 감사합니다.
