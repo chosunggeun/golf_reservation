@@ -59,4 +59,13 @@ browser.get(
 
 * [유동혁(@hatemogi)](https://github.com/hatemogi) 
 
+## 참조 : 외부 오픈소스 및 참고자료
+1. 과학기술대학교 비정규과목 “실무역량 향상을 위한 파이썬 기초 1~3”
+  (a)실무역량 향상을 위한 파이썬 기초 1 https://eclass.seoultech.ac.kr/ilos/st/course/online_list_form.acl?WEEK_NO=1 
+  (b)실무역량 향상을 위한 파이썬 기초 2 https://eclass.seoultech.ac.kr/ilos/st/course/online_list_form.acl?WEEK_NO=2
+  (c)실무역량 향상을 위한 파이썬 기초 3 https://eclass.seoultech.ac.kr/ilos/st/course/online_list_form.acl?WEEK_NO=3
+2. 낯코딩 [Python] Selenium을 활용한 웹 크롤링 https://velog.io/@changhtun1/Python-%EB%8F%99%EC%A0%81-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81
+3. 코딩유치원 웹 크롤링                                                                                                                                    https://coding kindergarten.tistory.com/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%8C%A8%ED%82%A4%EC%A7%80/%EC%9B%B9%20%ED%81%AC%EB%A1%A4%EB%A7%81
+4. 비전공자를 위한 파이썬 자동화 완벽 가이드 https://wikidocs.net/85737
+
 감사합니다.
