@@ -61,6 +61,7 @@ browser.get(
 
 ## 참조 : 외부 오픈소스 및 참고자료
 1. 과학기술대학교 비정규과목 “실무역량 향상을 위한 파이썬 기초 1~3”
+
   (a)실무역량 향상을 위한 파이썬 기초 1 https://eclass.seoultech.ac.kr/ilos/st/course/online_list_form.acl?WEEK_NO=1 
   
   (b)실무역량 향상을 위한 파이썬 기초 2 https://eclass.seoultech.ac.kr/ilos/st/course/online_list_form.acl?WEEK_NO=2
